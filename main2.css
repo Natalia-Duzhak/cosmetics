@@ -1,0 +1,221 @@
+
+body {
+    background-image: url(img/rachel-cheng-yYt6DpvxitU-unsplash.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #dadada;
+    background-blend-mode: soft-light;
+
+   
+}
+
+  .--cleanList a {
+      list-style-type: none;
+      color: #000000;
+      text-decoration: none;
+      font-size: 25px;
+  }
+
+  .big_label{
+    text-align:center;
+  }
+  .video-responsive {
+      overflow: hidden;
+      padding-bottom: 56.25%;
+      position: relative;
+      height: 0;
+  }
+
+  .video-responsive iframe {
+      left: 0;
+      top: 0;
+      height: 100%;
+      width: 100%;
+      position: absolute;
+  }
+
+  .sc-flex {
+      margin: 25px;
+      text-align: left;
+      line-height: 0.75cm;
+      font-size: 16pt;
+  }
+
+  .kosmetolog {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      margin: 0 auto;
+      text-align: center;
+
+  }
+
+  .h1 {
+      font-size: 18pt;
+      font-weight: bold;
+
+  }
+
+  .h2 {
+      font-size: 24pt;
+      font-weight: bold;
+  }
+
+  .h3 {
+      font-size: 24pt;
+      font-weight: bold;
+  }
+  .p{
+    font-size: 34pt;
+
+  }
+
+
+  .blog-section {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      text-align: center;
+      text-align-last: center;
+      line-height: normal;
+      text-decoration: none;
+  }
+
+  .plus {
+
+
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+  }
+
+  .blog-section .blog-section-img a {
+      text-decoration: none !important;
+  }
+
+  .blog-section-img {
+      margin: 10px 0;
+      flex: 0 0 100%;
+
+  }
+
+  .blog-section-text {
+      margin: 10px 0;
+      flex: 0 0 100%;
+
+  }
+
+  .blog-sectiontwo {
+      display: flex;
+      flex-direction: column;
+  }
+
+  .blog-section-imgtwo {
+      margin: 10px 0;
+      flex: 0 0 100%;
+  }
+
+  .blog-section-texttwo {
+      margin: 10px 0;
+      flex: 0 0 100%;
+
+  }
+
+  .blog-sectionone {
+      display: flex;
+      flex-direction: column;
+  }
+
+  .blog-section-imgone {
+      margin: 10px 0;
+      flex: 0 0 100%;
+  }
+
+  .blog-section-textone {
+      margin: 10px 0;
+      flex: 0 0 100%;
+
+  }
+
+  .photobig {
+      display: none;
+  }
+
+  .photosmall {
+      display: block;
+  }
+
+  @media only screen and (min-width: 757px) {
+  
+      .blog-section {
+          margin: 0 -15px;
+          flex-direction: row;
+      }
+
+      .blog-section div {
+          padding: 0 15px;
+
+      }
+
+      .blog-section-img {
+          flex: 0 0 20%;
+
+      }
+
+      .blog-section-text {
+          flex: 0 0 70%;
+
+      }
+
+      .blog-sectiontwo {
+          margin: 0 -15px;
+          flex-direction: row;
+      }
+
+      .blog-sectiontwo div {
+          padding: 0 15px;
+
+      }
+
+      .blog-section-imgtwo {
+          flex: 0 0 40%;
+      }
+
+      .blog-section-texttwo {
+          flex: 0 0 60%;
+
+      }
+
+      .blog-sectionone {
+          margin: 0 -15px;
+          flex-direction: row;
+      }
+
+      .blog-sectionone div {
+          padding: 0 15px;
+
+      }
+
+      .blog-section-imgone {
+          flex: 0 0 40%;
+      }
+
+      .blog-section-textone {
+          flex: 0 0 60%;
+
+      }
+
+      .photosmall {
+          display: none;
+      }
+
+      .photobig {
+          display: block;
+      }
+
+
+  }

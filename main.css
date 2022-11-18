@@ -1,0 +1,1227 @@
+/*img{
+    max-width: 100%;
+}*/
+
+.Y {
+    background-image: url(img/jocelyn-morales-JiqTLjzEH18-unsplash.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #f0f0f0;
+}
+
+.burger-menu{
+    
+    height: 55px;
+}
+.menu11{
+    /*display: flex;*/
+    padding-left: 30px;
+    margin-left: 0px;
+    margin: 3%;
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 30px;
+    /*padding: 10px 0 0 100px;*/
+    color: #000000;
+    font-weight: bold;
+}
+/*.menu11 a {
+   text-decoration: none;
+    font-family: sans-serif;
+    margin-left: 120px;
+    font-size: 25px;
+    color: #000000;
+  
+    /*justify-content: flex-end;*/
+    /*list-style-type: none;
+  
+}*/
+
+
+
+.meet{
+   /* float: left;*/
+    margin-left: 120px;
+    font-size: 22px;
+    color: #080808;
+    margin-top: 5%;
+  
+}
+.delivery {
+    margin-left: 100px;
+    font-size: 22px;
+    color: #080808;
+}
+.blog {
+    margin-left: 120px;
+    font-size: 22px;
+    color: #080808;
+}
+.shopping-bag {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 1049px;
+    top: -1px;
+}
+
+.enter {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1179px;
+    margin-top: -50px;
+}
+img.jocelyn-morale{
+    /*position: absolute;*/
+    height: 650px;
+    width: 100%;
+    margin-top:15px;
+    left: 0;
+   /* background: url(../img/jocelyn-morales-JiqTLjzEH18-unsplash.jpg);*/
+}
+.main-photo {
+    /*position: absolute;*/
+    width: 1334px;
+    height: 481px;
+    left: 0px;
+    top: 70px;
+   
+    
+}
+.circle{
+    box-sizing: border-box;
+    
+        position: absolute;
+        width: 287px;
+        height: 212px;
+        top: 110px;
+        left: 20px;
+        background: linear-gradient(180deg, rgba(57, 218, 207, 0.71) 0%, rgba(240, 203, 17, 0.454) 91.15%, rgba(241, 192, 15, 0) 100%);
+        border: 1px solid #D9D9D9;
+        filter: blur(2px);
+        border-radius: 50%;
+}
+/*.elipse {
+    box-sizing: border-box;
+    position: absolute;
+    width: 387px;
+    height: 92px;
+    top: 150px;
+    left: 500px;
+    background: #fcf9f9;
+    border: 1px solid #D9D9D9;
+    filter: blur(2px);
+    border-radius: 50%;
+}*/
+.diva {
+    position: absolute;
+    width: 380px;
+    height: 388px;
+    right: 0px;
+    margin-top: 50px;
+    margin-left: 900px;
+    margin-right: 40px;
+}
+.main-name {
+    margin-left: 90px;
+    margin-top: 100px;
+    font-size: 22px;
+    position: absolute;
+    font-size: 58px;
+    font-family: 'Lobster', cursive;
+}
+.signature {
+    margin-left: 75px;
+    margin-top: 200px;
+    font-size: 28px;
+    position: absolute;
+    font-size: 18px;
+}
+.search {
+    position: absolute;
+        width: 35px;
+        height: 35px;
+        left: 510px;
+        margin-top: 119px;
+}
+.menu_search__input {
+    position: absolute;
+    width: 280px;
+    height: 50px;
+    left: 560px;
+    margin-top: 108px;
+    /*border-radius: 50%;*/
+}
+.care {
+    position: absolute;
+    font-size: 32px;
+    /*margin-top: 7%;*/
+    left: 4%;
+    margin-left: 90px;
+    margin-top: 600px;
+    color: #000000;
+    text-decoration: underline;
+}
+.need {
+    position: absolute;
+        font-size: 32px;
+        margin-top: 7%;
+        left: 33%;
+        margin-left: 180px;
+        margin-top: 600px;
+        color: #000000;
+        text-decoration: underline;
+}
+.brend {
+    position: absolute;
+        font-size: 32px;
+        margin-top: 7%;
+        color: #000000;
+        margin-left: 120px;
+        margin-top: 600px;
+        text-decoration: underline;
+}
+
+.TheOrdinary {
+    position: absolute;
+    width: 419px;
+    height: 381px;
+    /*left: 47px;*/
+    top: 704px;
+    background: #c5b9a1;
+    margin-right: 29px;
+}
+.video_m1 {
+    position: absolute;
+    width: 609px;
+    height: 361px;
+    left: 419px;
+    top: 684px;
+    margin-right: 29px;
+
+    z-index: 15;
+
+}
+.video_m3 {
+    position: absolute;
+    width: 0%;
+    height: 0%;
+    left: 0%;
+   
+    
+}
+
+
+
+
+.GirlInHat {
+    position: absolute;
+    width: 401px;
+    height: 381px;
+    left: 519px;
+    top: 704px;
+    background: #dd9362;
+    margin-right: 29px;
+}
+
+.Bioderma {
+    position: absolute;
+    width: 421px;
+    height: 381px;
+    left: 1028px;
+    top: 704px;
+    background: #759cb6;
+    margin-right: 29px;
+}
+
+.Neutrogena {
+    position: absolute;
+    width: 294px;
+    height: 301px;
+   /* left: 505px;*/
+    top: 1025px;
+    background: #2ababe;
+    margin-right: 29px;
+}
+
+
+.video_m2 {
+    position: absolute;
+    width: 499px;
+    height: 281px;
+    left: 295px;
+    top: 1025px;
+    margin-right: 29px;
+
+    z-index: 13;
+
+}
+.GirlInWhite {
+    position: absolute;
+    width: 401px;
+    height: 301px;
+     left: 315px;
+    top: 1025px;
+    background: #becaca;
+    margin-right: 29px;
+}
+
+
+.LaRoshePosay {
+    position: absolute;
+    width: 375px;
+    height: 301px;
+    left: 736px;
+    top: 1025px;
+    /*background: #38a7a7;*/
+    margin-right: 29px;
+}
+.BeatyfulGirl {
+    position: absolute;
+    width: 287px;
+    height: 301px;
+    left: 1055px;
+    top: 1025px;
+    background: #d3a262;
+    margin-right: 29px;
+}
+.Brends {
+    position: absolute;
+    width: 1334px;
+    height: 281px;
+   /* left: 1055px;*/
+    top: 1306px;
+    background: #c9c7c3;
+    margin-right: 29px;
+}
+.inf1 {
+    position: absolute;
+    width: 320px;
+    height: 350px;
+     left: 205px;
+    margin-top: 12px;
+    object-fit: cover;
+    margin-right: 29px;
+}
+.i1 {
+    margin-top: 380px;
+    margin-left: 195px;
+    text-align: center;
+    display: flex;
+    font-size: 22px;
+    width: 24%;
+    float: left;
+}
+.see1{
+    position: absolute;
+        font-size: 22px;
+        /*margin-top: 7%;*/
+        text-align: center;
+        margin-left: 310px;
+        margin-top: 470px;
+        list-style-type: none;
+        text-decoration: none;
+        color: #080808;
+
+}
+.see1 a {
+    list-style-type: none;
+    text-decoration: none;
+    color: #080808;
+}
+.circle1{
+    position: absolute;
+    margin-top: 460px;
+    margin-left: 265px;
+    position: absolute;
+    width: 182px;
+    height: 49px;
+    border-radius: 50%;
+    border: 1px solid #000000;
+
+}
+.inf2 {
+    position: absolute;
+    width: 320px;
+    height: 350px;
+    left: 829px;
+    margin-top: 12px;
+    object-fit: cover;
+    margin-right: 29px;
+}
+
+.i2 { 
+    position: absolute;
+    margin-top: 380px;
+        margin-left: 819px;
+        text-align: center;
+        display: flex;
+        font-size: 22px;
+        width: 24%;
+        float: left;
+   
+}
+.see2 {
+    position: absolute;
+    font-size: 22px;
+    /*margin-top: 7%;*/
+    margin-left: 944px;
+    list-style-type: none;
+    text-decoration: none;
+    margin-top: 470px;
+    color: #080808;
+
+}
+.see2 a{
+    list-style-type: none;
+    text-decoration: none;
+    color: #080808;
+}
+.circle2 {
+    position: absolute;
+    margin-top: 460px;
+    margin-left: 899px;
+    position: absolute;
+    width: 182px;
+    height: 49px;
+    border-radius: 50%;
+    border: 1px solid #000000;
+
+}
+
+
+.About-yuna {
+    position: absolute;
+        width: 1400px;;
+        /*height: 350px;*/
+        /*left: 879px;*/
+        top: 2910px;
+        /*background: #fcfcfc;*/
+        margin-right: 29px;
+    
+}
+.about-yuna {
+    margin-left: 579px;
+    font-size: 42px;
+    font-family: 'Lobster', cursive;
+}
+.text {
+    background: #ffffff;
+}
+.text11 {
+    text-align: center;
+    float: left;
+    /*width: 44%;*/
+    display: flex;
+    margin-top: 0%;
+    margin-left: 12%;
+    flex-direction: column;
+    background: #ffffff;
+    font-size: 25px;
+}
+.text1 {
+    text-align: justify;
+    float: left;
+    width: 44%;
+    display: flex;
+    margin-top: 0%;
+    margin-left: 1%;
+    flex-direction: column;
+    background: #ffffff;
+    font-size: 22px;
+}
+.text22 {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    /*width: 44%;*/
+    margin-top: 0%;
+     margin-left: 12%;
+    background: #ffffff;
+    font-size: 25px;
+}
+
+.text2 {
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    width: 44%;
+    margin-top: 3%;
+    margin-left: 50%;
+    background: #ffffff;
+    font-size: 22px;
+}
+
+
+.footer {
+    position: absolute;
+    width: 1410px;
+    height: 337px;
+    left: 0px;
+    top: 3450px;
+    background: #464545;
+}
+.information {
+    text-align: center;
+    float: left;
+    width: 15%;
+    margin-left: 10%;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+}
+.information a {
+    color: #000;
+    list-style-type: none;
+    text-decoration: none;
+}
+.account {
+    text-align: center;
+    float: left;
+    width: 15%;
+    margin-left: 10%;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    
+}
+.account a{
+color: #000;
+list-style-type: none;
+text-decoration: none;
+}
+
+.support {
+    text-align: center;
+    float: left;
+    width: 20%;
+    margin-left: 10%;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+}
+
+.license {
+   text-align: left;
+    float: left;
+    margin-top: 10%;
+    margin-left: 5%;
+    font-size: 15px;
+}
+.soc{
+    text-align: right;
+    float: left;
+    margin-top: 3%;
+    margin-left: 40%;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+}
+
+.instagram {
+    position: absolute;
+    width: 51px;
+    height: 51px;
+    left: 879px;
+    top: 242px;
+   /* margin-top: 3012px;*/
+}
+.facebook {
+    position: absolute;
+    width: 51px;
+    height: 51px;
+    left: 949px;
+   /* margin-top: 10%;*/
+    top: 242px;
+}
+.telegram {
+    position: absolute;
+    width: 51px;
+    height: 51px;
+    left: 1019px;
+    /* margin-top: 10%;*/
+    top: 242px;
+}
+
+  .pricing {
+      font-family: Manrope, Arial, sans-serif;
+      /*font-family: 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Console', monaco, 'Bitstream Vera Sans Mono', monospace;*/
+      padding: 2em;
+  }
+
+
+  .pr {
+      font-family: 'Tungsten A', 'Tungsten B', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      font-family: Manrope, Arial, sans-serif;
+      color: #000000;
+      font-size: 16px;
+      font-style: bold;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      line-height: 1em;
+      text-align: center;
+  }
+
+  .pricing {
+      margin-top: 850px;
+      box-sizing: border-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: -webkit-box;
+      display: flex;
+      -webkit-flex: 0 1 auto;
+      -ms-flex: 0 1 auto;
+      -webkit-box-flex: 0;
+      flex: 0 1 auto;
+      -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+      -webkit-box-orient: horizontal;
+      -webkit-box-direction: normal;
+      flex-direction: row;
+
+      @media all and (max-width: 500px) {
+
+          -webkit-flex-direction: column;
+          -ms-flex-direction: column;
+          -webkit-box-orient: vertical;
+          -webkit-box-direction: normal;
+          flex-direction: column;
+          justify-content: flex-start;
+      }
+
+       
+
+      -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+      justify-content: space-around;
+  }
+
+  .pro  {
+      box-sizing: border-box;
+      -webkit-flex: 1 0 19%;
+      -ms-flex: 1 0 19%;
+      -webkit-box-flex: 0;
+      flex: 1 0 19%;
+      padding: 1em 1em 10em;
+      margin: .5%;
+      border: 2px solid #000000;
+      position: relative;
+  }
+
+  .price {
+      border-top: 2px solid #000000;
+      padding-top: .5em;
+  }
+
+  .price,
+  .shop {
+      box-sizing: border-box;
+      position: absolute;
+      left: 0;
+      right: 0;
+      width: 100%;
+      margin: 0;
+      padding: 1em;
+      text-align: center;
+      font-size: 20px;
+      font-style: bold;
+  }
+
+  .price {
+      bottom: 4em;
+      font-style: bold;
+  }
+
+  .shop {
+      bottom: 0;
+  }
+
+  .button-link {
+      box-sizing: border-box;
+      text-decoration: none;
+      border-radius: 40px;
+      background: #ffffff;
+      color: rgb(0, 0, 0);
+      display: block;
+      width: 100%;
+      padding: .75em;
+      text-align: center;
+      border-color: #000000;
+      border: 2px solid #000
+  }
+
+
+  .b-lazy {
+      border: none;
+      max-width: 100%;
+      height: auto;
+  }
+
+
+@media screen and (max-width: 525px){
+
+
+
+    .pricing {
+            margin-top: 550px;       
+            
+    }
+    .burger-menu__button {
+            position: fixed;
+            top: 25px;
+            left: 20px;
+            z-index: 30;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background-color: #ffffff;
+            transition: 0.4s;
+        }
+    
+        .burger-menu__button:hover .burger-menu__lines {
+            filter: brightness(0.7);
+        }
+    
+        .burger-menu__lines,
+        .burger-menu__lines::after,
+        .burger-menu__lines::before {
+            position: absolute;
+            width: 35px;
+            height: 3px;
+            background-color: rgb(0, 0, 0);
+    
+        }
+    
+        .burger-menu__lines {
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+    
+        .burger-menu__lines::before {
+            content: "";
+            top: -12px;
+        }
+    
+        .burger-menu__lines::after {
+            content: "";
+            top: 12px;
+        }
+    
+        .burger-menu_active .burger-menu__button,
+        .burger-menu_active .burger-menu__lines {
+            background-color: transparent;
+        }
+    
+    
+        .burger-menu_active .burger-menu__lines::before {
+            top: 0;
+            transform: rotate(45deg);
+        }
+    
+        .burger-menu_active .burger-menu__lines::after {
+            top: 0;
+            transform: rotate(-45deg);
+        }
+    
+        .burger-menu__nav {
+            padding-top: 50px;
+            position: fixed;
+            z-index: 20;
+            display: flex;
+            flex-flow: column;
+            height: 210px;
+            background-color: #e1e4cd;
+            overflow-y: auto;
+            left: -100%;
+            transition: 0.5s;
+        }
+    
+        .burger-menu_active .burger-menu__nav {
+            left: 0;
+        }
+    
+      
+    
+        .burger-menu__link :hover {
+            filter: brightness(0.7);
+        }
+    
+        .burger-menu__overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            z-index: 10;
+        }
+    
+        .burger-menu_active .burger-menu__overlay {
+            display: block;
+    
+        }
+
+       /*.menu11 {
+            display: flex;
+            padding-left: 30px;
+            margin-left: 0px;
+            
+        }*/
+    
+        .menu11  {
+            text-decoration: none;
+            font-family: sans-serif;
+            margin-top: -55px;
+            margin-left: 7px;
+            font-size: 20px;
+            padding: 30px;
+            color: #000000;
+            font-weight: bold;
+            /*justify-content: flex-end;*/
+            /*list-style-type: none;*/
+    
+        }
+
+                .care {
+                    font-family: sans-serif;
+                        font-size: 20px;
+                        text-decoration: none;
+                        font-weight: bold;
+                        color: rgb(0, 0, 0);
+                        margin-top: 105px;
+                        margin-left: 28px;
+                   
+                }
+        
+                .need {
+                    font-family: sans-serif;
+                        font-size: 20px;
+                        text-decoration: none;
+                        font-weight: bold;
+                        color: rgb(0, 0, 0);
+                        margin-top: 145px;
+                        margin-left: -52px;
+                 
+                }
+        
+                .brend {
+                font-family: sans-serif;
+                    font-size: 20px;
+                    text-decoration: none;
+                    font-weight: bold;
+                    color: rgb(0, 0, 0);
+                    margin-top: 180px;
+                    margin-left: 40px;
+                }
+                   .search {
+                    position: absolute;
+                    width: 30px;
+                    height: 30px;
+                    left: 48px;
+                    top: -100px;
+                    /*margin-top: -40px;*/
+                }
+        
+                .circle {
+                    box-sizing: border-box;
+                    position: absolute;
+                    width: 261.5px;
+                    height: 65px;
+                    left: 80px;
+                    top: 9px;
+                    background: linear-gradient(180deg, rgba(57, 218, 207, 0.71) 0%, rgba(240, 203, 17, 0.454) 91.15%, rgba(241, 192, 15, 0) 100%);
+                    border: 1px solid #D9D9D9;
+                    filter: blur(2px);
+                    border-radius: 50%;
+                }
+        
+                .main-name {
+        
+                    margin-left: 145px;
+                    margin-top: -600px;
+                    font-size: 22px;
+                    position: absolute;
+                    font-size: 48px;
+                    font-family: 'Lobster', cursive;
+        
+                }
+        
+                .enter {
+                        position: absolute;
+                            width: 35px;
+                            height: 35px;
+                            left: 345px;
+                            top: 60px;
+                }
+        
+                .shopping-bag {
+                    position: absolute;
+                    width: 52px;
+                    height: 52px;
+                    left: 376px;
+                    top: 1px;
+                }
+        
+                .elipse {
+                    display: none;
+                }
+        
+                .menu_search__input {
+                    display: none;
+                }
+        
+                .diva {
+                    display: none;
+                }
+        
+                .signature {
+                    display: none;
+                }
+        
+                img.jocelyn-morale {
+                    display: none;
+                }
+        
+        
+                .TheOrdinary {
+                    position: absolute;
+                    width: 219px;
+                    height: 181px;
+                    left: 1px;
+                    top: 100px;
+                    background: #c5b9a1;
+                    /*margin-right: 19px;*/
+                }
+              
+            
+
+                 .video_m1{
+                  display: none;
+                 }
+
+                                 .video_m2 {
+                                position: absolute;
+                                    width: 319px;
+                                    height: 361px;
+                                    left: 0px;
+                                    top: 9px;
+                                    margin-right: 29px;
+                                
+                                    z-index: 15;
+                
+                                 }
+
+                                                                  .video_m3 {
+                                                                      position: absolute;
+                                                                      width: 104px;
+                                                                      height: 361px;
+                                                                      left: 319px;
+                                                                      top: 10px;
+                                                                      margin-right: 29px;
+                                
+                                                                      z-index: 15;
+                                
+                                                                  }
+        
+                .GirlInHat {
+                    position: absolute;
+                    width: 204px;
+                    height: 181px;
+                    left: 220px;
+                    top: 100px;
+                    background: #dd9362;
+                    margin-right: 29px;
+                }
+        
+                .Bioderma {
+                    display: none;
+                }
+        
+                .Neutrogena {
+                    position: absolute;
+                    width: 194px;
+                    height: 181px;
+                    left: 1px;
+                    top: 280px;
+                    background: #2ababe;
+                    /*margin-right: 29px;*/
+                }
+        
+                .GirlInWhite {
+                    position: absolute;
+                    width: 232px;
+                    height: 181px;
+                    left: 195px;
+                    top: 280px;
+                    background: #becaca;
+                    margin-right: 29px;
+                }
+        
+                .LaRoshePosay {
+                    display: none;
+                }
+        
+                .BeatyfulGirl {
+                    display: none;
+                }
+        
+                .Brends {
+                    position: absolute;
+                    width: 423px;
+                    height: 151px;
+                    /* left: 1055px;*/
+                    top: 462px;
+                    background: #c9c7c3;
+                    margin-right: 29px;
+                }
+        
+                .inf1 {
+                    position: absolute;
+                    width: 150px;
+                    height: 193.18px;
+                    left: 42px;
+                    margin-top: 33px;
+                    margin-right: 29px;
+                    object-fit: cover;
+                }
+        
+                .i1 {
+                    position: absolute;
+                    width: 182px;
+                    height: 24px;
+                    margin-left: 26px;
+                    margin-top: 243px;
+                    text-align: center;
+                    display: flex;
+                    font-size: 15px;
+                    width: 44%;
+                    float: left;
+                }
+        
+                .see1 {
+                    position: absolute;
+                    font-size: 15px;
+                    /*margin-top: 7%;*/
+                    margin-left: 72px;
+                    margin-top: 330px;
+                    color: #000000;
+        
+                }
+        
+                .circle1 {
+                    position: absolute;
+                    margin-top: 325px;
+                    width: 89px;
+                    height: 28px;
+                    margin-left: 58px;
+                    border-radius: 50%;
+                    border: 1px solid #000000;
+        
+                }
+        
+                .inf2 {
+                    position: absolute;
+                    width: 150px;
+                    height: 193.29px;
+                    left: 236px;
+                    margin-top: 33px;
+                    object-fit: cover;
+                    margin-right: 29px;
+                }
+        
+                .i2 {
+                    position: absolute;
+                    width: 182px;
+                    height: 24px;
+                    margin-top: 243px;
+                    margin-left: 233px;
+                    text-align: center;
+                    display: flex;
+                    font-size: 15px;
+                    width: 40%;
+                    float: left;
+        
+                }
+        
+                .see2 {
+                    position: absolute;
+                    font-size: 15px;
+                    /*margin-top: 7%;*/
+                    margin-left: 283px;
+                    margin-top: 330px;
+                    color: #080808;
+        
+                }
+        
+                .circle2 {
+                    position: absolute;
+                    margin-top: 325px;
+                    margin-left: 267px;
+                    width: 89px;
+                    height: 28px;
+                    border-radius: 50%;
+                    border: 1px solid #000000;
+        
+                }
+        
+                .about-yuna {
+                    position: absolute;
+                    width: 145px;
+                    height: 43px;
+                    margin-left: 136px;
+                    margin-top: 1080px;
+                    font-size: 32px;
+                    font-family: 'Lobster', cursive;
+                }
+                                         /*.text {
+                                             background: #ffffff;
+                                         }*/
+        
+                .text1 {
+                    position: absolute;
+                    text-align: justify;
+                        align-items: center;
+                        display: flex;
+                        flex-direction: column;
+                        float: left;
+                        width: 29%;
+                        margin-left: 0%;
+                        background: #ffffff;
+                        font-size: 19px;
+                        margin-top: 1187px;
+                }
+                
+                                .text11 {
+                                    position: absolute;
+                                    text-align: center;
+                                    text-align: center;
+                                        /* display: flex;
+                                         flex-direction: column;*/
+                                        /*width: 44%;*/
+                                        margin-top: -7%;
+                                        margin-left: 1%;
+                                        /*background: #ffffff;*/
+                                        font-size: 22px;
+                                }
+                
+                
+                            
+        
+                .text2 {
+                    text-align: justify;
+                    align-items: center;
+                    display: flex;
+                    flex-direction: column;
+                    float: left;
+                    width: 29%;
+                    margin-left: 0%;
+                    background: #ffffff;
+                    font-size: 19px;
+                    margin-top: 1557px;
+                }
+
+                                        .text22 {
+                                            text-align: center;
+                                           /* display: flex;
+                                            flex-direction: column;*/
+                                            /*width: 44%;*/
+                                            margin-top: -7%;
+                                            margin-left: 12%;
+                                            /*background: #ffffff;*/
+                                            font-size: 22px;
+                                        }
+        
+                .footer {
+                    position: absolute;
+                    width: 500px;
+                    height: 287px;
+                    left: 0px;
+                    margin-top: 1350px;
+                    background: #464545;
+                }
+        
+                .information {
+                    text-align: center;
+                    float: center;
+                    width: 30%;
+                    margin-left: 10%;
+                    display: flex;
+                    flex-direction: column;
+                    font-size: 15px;
+                }
+        
+                .account {
+                    text-align: center;
+                    float: left;
+                    width: 25%;
+                    margin-left: 5%;
+                    margin-top: 5%;
+                    display: flex;
+                    flex-direction: column;
+                    font-size: 14px;
+                }
+        
+                .support {
+                    text-align: center;
+                    float: left;
+                    width: 35%;
+                    margin-left: -62%;
+                    margin-top: 25%;
+                    display: flex;
+                    flex-direction: column;
+                    font-size: 14px;
+                }
+        
+                .license {
+                    text-align: left;
+                    float: left;
+                    margin-top: 52%;
+                    margin-left: -65%;
+                    font-size: 10px;
+                }
+        
+                .soc {
+                    text-align: right;
+                    float: left;
+                    margin-top: 0%;
+                    margin-left: 46%;
+                    display: flex;
+                    flex-direction: column;
+                    font-size: 12px;
+                    color: black;
+                }
+    
+                .instagram {
+                    position: absolute;
+                    width: 31px;
+                    height: 31px;
+                    left: 234px;
+                    top: 152px;
+                    /* margin-top: 3012px;*/
+                }
+        
+                .facebook {
+                    position: absolute;
+                    width: 31px;
+                    height: 31px;
+                    left: 274px;
+                    /* margin-top: 10%;*/
+                    top: 152px;
+                }
+        
+                .telegram {
+                    position: absolute;
+                    width: 31px;
+                    height: 31px;
+                    left: 317px;
+                    /* margin-top: 10%;*/
+                    top: 152px;
+                }
+
+
+}                
